@@ -1,2 +1,2 @@
 # CAT
-index.html
+course.html
